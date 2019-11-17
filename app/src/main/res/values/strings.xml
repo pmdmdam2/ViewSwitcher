@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewSwitch</string>
+    <string name="max_rating_value">/ 10.0</string>
+</resources>
